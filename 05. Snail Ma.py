@@ -1,0 +1,5 @@
+print("29-07-2024")
+print("Bien")
+print("A conseguir un buen futuro para mi y que mis padres se sientan orgullosos")
+print("Pues que disfrute todos los momentos del camino hacia la grandeza")
+print("😎")
